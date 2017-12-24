@@ -5,3 +5,5 @@ Those bits may represent any kind of characters, numbers, or symbols in an arbit
 the ciphertext.
 
 Currently I have developed a SystemVerilog testbench for the AES-128. The testbench have only two classes: "aes" and "d_aes". 
+
+The "aes128-hdl-master" directory contains all the AES related encryption and decryption engine. It is a standalone project.
